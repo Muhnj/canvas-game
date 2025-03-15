@@ -15,4 +15,4 @@
 
 -Your score increases the longer you survive.
 
-<img src="./game.jpg" alt="JavaScript Introduction" width="100%" />
+<img src="./game.png" alt="JavaScript Introduction" width="100%" />
