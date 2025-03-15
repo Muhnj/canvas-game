@@ -1,4 +1,4 @@
-# Obstacle Gamegit 
+# Obstacle Game 
 <img src="./game.jpg" alt="JavaScript Introduction" width="100%" />
 
 -✅ Obstacles falling from the top of the screen.
